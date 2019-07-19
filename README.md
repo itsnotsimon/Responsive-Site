@@ -1,7 +1,7 @@
 # Simon Luo
 [Website URL](http://luo-simon.github.io)
 
-## Portfolio Website
+## * Website
 Hosted with GitHub Pages
 
 ## Built with:
