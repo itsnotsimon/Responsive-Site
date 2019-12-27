@@ -1,5 +1,4 @@
 # Simon Luo
-[Website URL](http://luo-simon.github.io)
 
 ## * Website
 Hosted with GitHub Pages
